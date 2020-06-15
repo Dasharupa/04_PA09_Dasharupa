@@ -1,0 +1,15 @@
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.exe
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.deps.json
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.runtimeconfig.json
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.runtimeconfig.dev.json
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.dll
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\bin\Debug\netcoreapp3.1\04_PA09_Dasharupa.pdb
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.csprojAssemblyReference.cache
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\_04_PA09_Dasharupa.Form1.resources
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.csproj.GenerateResource.cache
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.AssemblyInfoInputs.cache
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.AssemblyInfo.cs
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.dll
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.pdb
+C:\Users\dasha\Desktop\04_PA09_Dasharupa\04_PA09_Dasharupa\04_PA09_Dasharupa\obj\Debug\netcoreapp3.1\04_PA09_Dasharupa.genruntimeconfig.cache
